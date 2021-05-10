@@ -1,0 +1,15 @@
+[submodule "Spring-Configurable-Example"]
+	path = Spring-Configurable-Example
+	url = https://github.com/kenyattaclark/Spring-Configurable-Example
+[submodule "spring-data-book"]
+	path = spring-data-book
+	url = https://github.com/spring-projects/spring-data-book
+[submodule "spring-scala"]
+	path = spring-scala
+	url = https://github.com/spring-projects/spring-scala
+[submodule "spring-hateoas"]
+	path = spring-hateoas
+	url = https://github.com/spring-projects/spring-hateoas
+[submodule "spring-mvc-showcase"]
+	path = spring-mvc-showcase
+	url = https://github.com/spring-projects/spring-mvc-showcase
