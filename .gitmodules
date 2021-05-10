@@ -13,3 +13,6 @@
 [submodule "spring-mvc-showcase"]
 	path = spring-mvc-showcase
 	url = https://github.com/spring-projects/spring-mvc-showcase
+[submodule "tutorials"]
+	path = tutorials
+	url = https://github.com/eugenp/tutorials
